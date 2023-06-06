@@ -25,6 +25,7 @@
 
 
 
+
   - originally from Bishkek, now in Moscow 🤷🏻‍♂️
 
 
