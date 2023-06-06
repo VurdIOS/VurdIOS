@@ -10,6 +10,12 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
+<div id="badges" align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=VurdIOS&style=flat-square&color=blue" alt=""/>
+</div> 
+ 
+  
+
 <!--
 **VurdIOS/VurdIOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
