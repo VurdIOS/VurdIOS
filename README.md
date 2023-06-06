@@ -22,10 +22,8 @@
   - 👾 I'm learning how to build great apps /n
   - 📈 In my spare time I like to raise my mmr
   - 🐼 I love meeting new people
-br/
-/br
-br
----
+----
+
 
   - originally from Bishkek, now in Moscow 🤷🏻‍♂️
 
