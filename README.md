@@ -1,37 +1,3 @@
-### Hi there👋, I'm Kama
----
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kamalios">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="t.me/@jun_dev_ios">
-    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-
-  - 👾 I'm learning how to build great apps /n
-  - 📈 In my spare time I like to raise my mmr
-  - 🐼 I love meeting new people
---
-
-
-
-  - originally from Bishkek, now in Moscow 🤷🏻‍♂️
-
-<div id="viewsCounter" align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=VurdIOS&style=flat-square&color=blue" alt=""/>
-</div> 
-
-
 # Привет, меня зовут Камаль!
 
 ---
@@ -90,7 +56,7 @@
 - Scrum/Jira 
 
 ---
-
+<!--
 ### 🛠 Инструменты:
 
 <div>
@@ -103,8 +69,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
-
----
+-->
 
 <!-- ### 💻 Пройденные курсы:
 
@@ -123,19 +88,21 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/Kama_Pulya/badges/large)
 
 ### ⚙️ GitHub статистика:
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VuRDiOS&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VuRDiOS&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+<div id="viewsCounter" align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=VurdIOS&style=flat-square&color=blue" alt=""/>
+</div> 
