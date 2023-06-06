@@ -24,9 +24,9 @@
   - 🐼 I love meeting new people
 
 
-<div id="aboutMe">
-  - originally from 🇰🇬
-</div>
+
+  - originally from Bishkek, now in Moscow 🤷🏻‍♂️
+
 
 
 
