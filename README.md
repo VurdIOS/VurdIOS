@@ -26,8 +26,7 @@ br/
 /br
 br
 ---
-\br
-br\
+
   - originally from Bishkek, now in Moscow 🤷🏻‍♂️
 
 <div id="viewsCounter" align="left"> 
