@@ -70,14 +70,12 @@
 
 
 <p float="center">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=romkalan&theme=radical&hide_border=true&background=#000000">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=VurdIOS&theme=radical&hide_border=true&background=#000000">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romkalan&show_icons=true&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romkalan&show_icons=true&theme=radical&utcOffset=5)
-
-![Profile views](https://komarev.com/ghpvc/?username=romkalan&color=yellow)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VurdIOS&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VurdIOS&show_icons=true&theme=radical&utcOffset=5)
 
 <div id="viewsCounter" align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=VurdIOS&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=VurdIOS&style=flat-square&color=yellow" alt=""/>
 </div> 
