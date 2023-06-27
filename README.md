@@ -60,7 +60,7 @@
 - CI/CD
 - Scrum/Jira 
 
---- -->
+--- 
 
 ### 💻 Codewars:
 
